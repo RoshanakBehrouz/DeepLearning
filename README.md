@@ -49,7 +49,6 @@ Portfolio Optimization: Use predictions to simulate a trading strategy.
 ## 📂 Project Structure
 ```bash
 ├── FinalDLProject2026.ipynb   # Main Jupyter Notebook (Training & Eval)
-├── README.md                  # Project Documentation
-└── requirements.txt           # Dependencies
+└── README.md                  # Project Documentation
 
 

@@ -46,8 +46,6 @@ Sentiment Analysis: Integrate news headlines (NLP) as an additional input featur
 
 Portfolio Optimization: Use predictions to simulate a trading strategy.
 
-Roshanak Behrouz
-
 ## 📂 Project Structure
 ```bash
 ├── FinalDLProject2026.ipynb   # Main Jupyter Notebook (Training & Eval)

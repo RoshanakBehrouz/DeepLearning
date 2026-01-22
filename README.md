@@ -39,12 +39,6 @@ Adapts the "Attention is All You Need" architecture for regression.
 * **Encoder:** Multi-Head Self-Attention allows the model to relate any day in the window to any other day, regardless of distance.
 * **Decoder Head:** A linear projection of the final context vector to the target price.
 
-## 📂 Project Structure
-```bash
-├── FinalDLProject2026.ipynb   # Main Jupyter Notebook (Training & Eval)
-├── README.md                  # Project Documentation
-└── requirements.txt           # Dependencies
-
 ## Future Improvements
 Hyperparameter Tuning: Implement Optuna to find optimal learning rates and window sizes.
 
@@ -53,3 +47,11 @@ Sentiment Analysis: Integrate news headlines (NLP) as an additional input featur
 Portfolio Optimization: Use predictions to simulate a trading strategy.
 
 Roshanak Behrouz
+
+## 📂 Project Structure
+```bash
+├── FinalDLProject2026.ipynb   # Main Jupyter Notebook (Training & Eval)
+├── README.md                  # Project Documentation
+└── requirements.txt           # Dependencies
+
+

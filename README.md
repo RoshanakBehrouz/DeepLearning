@@ -44,3 +44,12 @@ Adapts the "Attention is All You Need" architecture for regression.
 ├── FinalDLProject2026.ipynb   # Main Jupyter Notebook (Training & Eval)
 ├── README.md                  # Project Documentation
 └── requirements.txt           # Dependencies
+
+## Future Improvements
+Hyperparameter Tuning: Implement Optuna to find optimal learning rates and window sizes.
+
+Sentiment Analysis: Integrate news headlines (NLP) as an additional input feature.
+
+Portfolio Optimization: Use predictions to simulate a trading strategy.
+
+Roshanak Behrouz
